@@ -7,18 +7,10 @@
 - 📍 Osmaniye, Türkiye.
 
 ## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="MySQL" />
-</p>
+- **Languages & Frontend:** `HTML5` | `CSS3` | `JavaScript`
+- **Backend & Database:** `PHP` | `MySQL (SQL)`
 
-## 📊 My GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Musa Eymen GitHub Stats" />
-</p>
+
 
 ## 📫 Connect with Me
 - 🌐 [GitHub Profile](https://github.com)
