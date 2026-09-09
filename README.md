@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Musa Eymen Şahin!
 
-<!--
-**MESahincode/MESahincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 I work primarily on web-based projects.
+- ⚙️ I work with software on a daily basis.
+- 🎓 I am proficient in **HTML, CSS, PHP, and SQL**.
+- 📍 Osmaniye, Türkiye.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="Musa Eymen GitHub Stats" />
+</p>
+
+## 📫 Connect with Me
+- 🌐 [GitHub Profile](https://github.com)
